@@ -42,5 +42,5 @@
   ; Or boolean operator: Returns first truthy value, or last value
   (or false nil false "Ha beat true" true "hi")
   ; And boolean operator: Return first falsey value, or last value
-  (and false true "der" "p" 12 3412 245)
+  (and false true "der" "p" 12 3412 245 42)
   )
